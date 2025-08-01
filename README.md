@@ -40,7 +40,7 @@
 ---
 
 ## 📜 Workshop certifications
-- IoT with Raspberry Pi (IITM Research Park)  
+- IoT with Raspberry Pi and NodeRed (IITM Research Park)  
 - Mastering DSA patterns by GDG-MIT & IITM  
 - Industrial Quantum Computing (MIT)
 
