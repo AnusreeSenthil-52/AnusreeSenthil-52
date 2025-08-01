@@ -49,7 +49,7 @@
 ## 🏆 Achievements
 
 - 🥇 **Winner** – EmbedQuest’25 at IIITDM  
-- 🥇 1st Place – Excellia’25 (PDA-MIT)  
+- 🥇 1st Place – Excellia’25 (PDA Club)  
 - 🎖️ NCC Grade ‘A’ Certificate  
 - 🏅 Hindi Praveshika Certificate  
 
