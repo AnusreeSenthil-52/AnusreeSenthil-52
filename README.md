@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Anusree Senthil
 
-🎓 Third-year Electronics and Communication Engineering student. 
-🔬 Passionate about Embedded Systems, IoT, and the real-world applications of Digital Systems.  
-💡 I love building impactful tech solutions through hands-on projects and continuous learning.
+-🎓 Third-year Electronics and Communication Engineering student. 
+-🔬 Passionate about Embedded Systems, IoT, and the real-world applications of Digital Systems.  
+-💡 I love building impactful tech solutions through hands-on projects and continuous learning.
 
 ---
 
@@ -24,11 +24,16 @@
 
 ## 🔧 Skills
 
-- **Languages**: C, C++, Python, MATLAB  
-- **Tools**: Arduino IDE, Proteus, KiCAD, LTSpice  
-- **Domains**: IoT Systems, Digital Circuits, PCB Design  
-- **Creative Tools**: Canva, Figma (UI/UX Design)  
-- **Soft Skills**: Teamwork, Time Management, Volunteering  
+### **Languages** 
+> C, C++, Python, MATLAB
+### **Tools**
+> Arduino IDE, Proteus, KiCAD, LTSpice  
+### **Domains**
+> IoT Systems, Digital Circuits, PCB Design  
+### **Creative Tools**
+> Canva, Figma (UI/UX Design)  
+### **Soft Skills**
+> Teamwork, Time Management, Volunteering  
 
 ---
 
