@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Anusree Senthil
 
 -🎓 Third-year Electronics and Communication Engineering student. 
-
 -🔬 Passionate about Embedded Systems, IoT, and the real-world applications of Digital Systems.  
 -💡 I love building impactful tech solutions through hands-on projects and continuous learning.
 
