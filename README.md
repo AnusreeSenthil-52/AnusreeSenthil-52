@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anusree S
+# 👋 Hello, I'm Anusree Senthil
 
 🎓 Third-year Electronics and Communication Engineering student. 
 🔬 Passionate about Embedded Systems, VLSI Design, and the real-world applications of Digital Systems.  
