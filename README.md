@@ -12,7 +12,7 @@
 > Developed during my summer internship at CSIR-CSIO  
 
 ### 🏠 Smart Home Automation System
-> **Winner** – EmbedQuest’25 at IIITDM  
+> **Winner** – EmbedQuest’25 at IIITDM, Kancheepuram 
 
 ### 🚗 Automatic Brake Control System
 > Embedded safety system for modern vehicles  
