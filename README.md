@@ -24,16 +24,11 @@
 
 ## 🔧 Skills
 
-### **Languages** 
-> C, C++, Python, MATLAB
-### **Tools**
-> Arduino IDE, Proteus, KiCAD, LTSpice  
-### **Domains**
-> IoT Systems, Digital Circuits, PCB Design  
-### **Creative Tools**
-> Canva, Figma (UI/UX Design)  
-### **Soft Skills**
-> Teamwork, Time Management, Volunteering  
+- **Languages** : C, C++, Python, MATLAB
+- **Tools** : Arduino IDE, Proteus, KiCAD, LTSpice  
+- **Domains** : IoT Systems, Digital Circuits, PCB Design  
+- **Creative Tools** : Canva, Figma (UI/UX Design)  
+- **Soft Skills**: Teamwork, Time Management, Volunteering  
 
 ---
 
