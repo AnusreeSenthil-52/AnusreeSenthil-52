@@ -55,17 +55,10 @@
 
 ---
 
-## 👥 Clubs & Volunteering
-
-- **Treasurer** – MIT Meteorology Club  
-- **Assistant Head of Design** – TED Club MIT (Poster/Brochure designer using Canva)  
-
----
-
 ## 📫 Let's Connect
 
 - 🔗 [GitHub](https://github.com/AnusreeSenthil-52)  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/anusreesenthil](https://www.linkedin.com/in/anusree-senthil-a52861312/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anusreesenthil)  
 - 📧 anusreesenthil5@gmail.com  
 
 ---
