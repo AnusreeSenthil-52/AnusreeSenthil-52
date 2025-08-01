@@ -8,7 +8,7 @@
 
 ## 🛠️ Projects
 
-### 🚑 Non-Invasive Diabetes Analyzer with IoT
+### 🚑 Non-Invasive Diabetes Analyzer with IoT data logging
 > Developed during my summer internship at CSIR-CSIO  
 
 ### 🏠 Smart Home Automation System
