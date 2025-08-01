@@ -1,8 +1,73 @@
-- 👋 Hi, I’m @Anusree
-- 🌱 I’m currently learning ECE
-- 💞️ I’m looking to collaborate on electronic projects
-- 😄 Pronouns: she/her
-<!---
-Anusree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Anusree S
+
+🎓 Third-year Electronics and Communication Engineering student. 
+🔬 Passionate about Embedded Systems, VLSI Design, and the real-world applications of Digital Systems.  
+💡 I love building impactful tech solutions through hands-on projects and continuous learning.
+
+---
+
+## 🛠️ Projects
+
+### 🚑 Non-Invasive Diabetes Analyzer with IoT
+> Developed during my summer internship at CSIR-CSIO  
+
+### 🏠 Smart Home Automation System
+> **Winner** – EmbedQuest’25 at IIITDM  
+
+### 🚗 Automatic Brake Control System
+> Embedded safety system for modern vehicles  
+
+ ### 🔔 Quiz Buzzer System
+ > A digital system that locks the first of four inputs and displays the winner.
+
+---
+
+## 🔧 Skills
+
+- **Languages**: C, C++, Python, MATLAB  
+- **Tools**: Arduino IDE, Proteus, KiCAD, LTSpice  
+- **Domains**: IoT Systems, Digital Circuits, PCB Design  
+- **Creative Tools**: Canva, Figma (UI/UX Design)  
+- **Soft Skills**: Teamwork, Time Management, Volunteering  
+
+---
+
+## 📜 Course Certifications
+
+- MATLAB Onramp, Linear Algebra using MATLAB  
+- NPTEL: Analog & Digital Circuits, Semiconductor Devices, Python for Data Science
+
+---
+
+## 📜 Workshop certifications
+- IoT with Raspberry Pi (IITM Research Park)  
+- Mastering DSA patterns by GDG-MIT & IITM  
+- Industrial Quantum Computing (MIT)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner** – EmbedQuest’25 at IIITDM  
+- 🥇 1st Place – Excellia’25 (PDA-MIT)  
+- 🎖️ NCC Grade ‘A’ Certificate  
+- 🏅 Hindi Praveshika Certificate  
+
+---
+
+## 👥 Clubs & Volunteering
+
+- **Treasurer** – MIT Meteorology Club  
+- **Assistant Head of Design** – TED Club MIT (Poster/Brochure designer using Canva)  
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [GitHub](https://github.com/AnusreeSenthil-52)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/anusreesenthil](https://www.linkedin.com/in/anusree-senthil-a52861312/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 📧 anusreesenthil5@gmail.com  
+
+---
+
+🌱 *Always learning. Always building. Exploring the intersection of electronics and innovation.*  
