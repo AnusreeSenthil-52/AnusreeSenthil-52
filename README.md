@@ -32,11 +32,15 @@
 
 ---
 
-## 📜 Course Certifications
-
-- MATLAB Onramp, Linear Algebra using MATLAB  
-- NPTEL: Analog & Digital Circuits, Semiconductor Devices, Python for Data Science
-
+## 📜 Course Certifications  
+## NPTEL courses: 
+- Analog & Digital Electronic Circuits
+- Introduction to Semiconductor Devices
+- Python for Data Science
+## Other Courses:
+- MATLAB Onramp - Mathworks
+- Python - Kaggle
+-VLSI for beginners - NIELIT
 ---
 
 ## 📜 Workshop certifications
