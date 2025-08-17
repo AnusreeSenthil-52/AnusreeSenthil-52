@@ -40,7 +40,7 @@
 ## Other Courses:
 - MATLAB Onramp - Mathworks
 - Python - Kaggle
--VLSI for beginners - NIELIT
+- VLSI for beginners - NIELIT
 ---
 
 ## 📜 Workshop certifications
