@@ -15,7 +15,10 @@
 > **Winner** – EmbedQuest’25 at IIITDM, Kancheepuram 
 
 ### 🚗 Automatic Brake Control System
-> Embedded safety system for modern vehicles  
+> Embedded safety system for modern vehicles
+
+### 📡 Wearable Textile Patch Antenna with AMC Backing
+> Design and analysis of a flexible wearable textile patch antenna with AMC backing for efficient body-centric wireless communication at 1.95 GHz.
 
  ### 🔔 Quiz Buzzer System
  > A digital system that locks the first of four inputs and displays the winner.
@@ -37,6 +40,9 @@
 - Analog & Digital Electronic Circuits
 - Introduction to Semiconductor Devices
 - Python for Data Science
+- Hardware Modelling Using Verilog
+- Electronic Hands-On Circuits : PCB Design using CAD Tools
+  
 ## Other Courses:
 - MATLAB Onramp - Mathworks
 - Python - Kaggle
